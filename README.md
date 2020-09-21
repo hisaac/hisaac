@@ -12,16 +12,6 @@ My interests include science fiction, music, technology, and open source softwar
 
 I currently work as a macOS developer for [Jamf](https://www.jamf.com), a software company based out of Minneapolis.
 
-I've spent most of my professional life working with technology. Before software development, I was an IT support technician and manager, software quality assurance technician, audio producer, and audio engineer.
-
-If you'd like to know more, you can check out my [résumé](https://hisaac.net/resume).
-
-### Education
-
-In 2011, I graduated from the [Institute of Production and Recording](https://www.ipr.edu) with an AAS degree in Audio Production and Recording.
-
-In 2017, I graduated from [Prime Digital Academy](https://www.primeacademy.io), fulfilling a childhood dream of becoming a software developer.
-
 ### Elsewhere
 
 Here are all the places you can find me elsewhere:
