@@ -8,7 +8,7 @@ I'm a macOS, iOS, and web developer living in [Minneapolis, MN](https://en.wikip
 
 My interests include science fiction, music, technology, and open source software. Ask me my thoughts on [Benjamin Sisko](http://memory-alpha.wikia.com/wiki/Benjamin_Sisko), [Londo Mollari](http://babylon5.wikia.com/wiki/Londo_Mollari), [Aphex Twin](https://song.link/album/s/6oRuinkJdTge4hpTuClEF8), or [Neil Young](https://song.link/album/s/3w5Hok05AFjCLy269xXM7e) sometime. I've got many thoughts to share.
 
-I currently work as a macOS developer for [Jamf](https://www.jamf.com), a software company based out of Minneapolis.
+I currently work as a Mobile DevOps Engineer at [Bitrise](https://bitrise.io), a mobile-focused CI/CD platform based out of Budapest, Hungary.
 
 You can find my résumé here: [hisaac.net/resume](https://hisaac.net/resume/)
 
